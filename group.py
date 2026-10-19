@@ -4,12 +4,12 @@ my_group = {
     "Bohao": {
         "age": 23,
         "job": "Student in Scientific and Data Intensive Computing",
-        "relations": ["Group_member"],
+        "relations": ["Zhangjie"],
     },
     "Zhangjie": {
         "age": 24,
         "job": "Student in Scientific and Data Intensive Computing",
-        "relations": ["Group_member"],
+        "relations": ["Bohao"],
     },
 }
 
